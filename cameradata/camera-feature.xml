@@ -70,28 +70,28 @@
     <local name="BACK_CAMCORDER_RESOLUTION_FEATURE_MAP_2400X1080" value="true" hdr="true" hdr10="false" snapshot-support="true" snapshot-size="4000x1868" vdis="true" super-vdis="true" effect="true" object-tracking="false" seamless-zoom-support="true" physical-zoom-supported="false" external-storage-support="true" touch-af="true" supported-mode="video,pro_video"/>
     <local name="BACK_CAMCORDER_RESOLUTION_FEATURE_MAP_1920X1440" value="false" hdr="true" hdr10="false" snapshot-support="true" snapshot-size="4000x3000" vdis="true" super-vdis="true" effect="true" object-tracking="false" seamless-zoom-support="true" physical-zoom-supported="false" external-storage-support="true" touch-af="true" supported-mode="video,pro_video"/>
     <local name="BACK_CAMCORDER_RESOLUTION_FEATURE_MAP_1920X1080" value="true" hdr="true" hdr10="false" snapshot-support="true" snapshot-size="4000x2252" vdis="true" super-vdis="true" effect="true" object-tracking="false" seamless-zoom-support="true" physical-zoom-supported="false" external-storage-support="true" touch-af="true" supported-mode="video,pro_video"/>
-    <local name="BACK_CAMCORDER_RESOLUTION_FEATURE_MAP_1920X1080_60FPS" value="true" hdr="true" hdr10="false" snapshot-support="true" snapshot-size="4000x2252" vdis="true" super-vdis="false" effect="false" object-tracking="false" seamless-zoom-support="true" physical-zoom-supported="false" external-storage-support="true" touch-af="true" supported-mode="video,pro_video"/>
+    <local name="BACK_CAMCORDER_RESOLUTION_FEATURE_MAP_1920X1080_60FPS" value="true" hdr="true" hdr10="false" snapshot-support="true" snapshot-size="4000x2252" vdis="true" super-vdis="false" effect="false" object-tracking="false" seamless-zoom-support="true" physical-zoom-supported="false" external-storage-support="true" touch-af="true" uw-support="false" supported-mode="video,pro_video"/>
     <local name="BACK_CAMCORDER_RESOLUTION_FEATURE_MAP_1440X1440" value="true" hdr="true" hdr10="false" snapshot-support="true" snapshot-size="2992x2992" vdis="true" super-vdis="true" effect="true" object-tracking="false" seamless-zoom-support="true" physical-zoom-supported="false" external-storage-support="true" touch-af="true" supported-mode="video,pro_video"/>
     <local name="BACK_CAMCORDER_RESOLUTION_FEATURE_MAP_1280X720" value="true" hdr="true" hdr10="false" snapshot-support="true" snapshot-size="4000x2252" vdis="true" super-vdis="false" effect="true" object-tracking="false" seamless-zoom-support="true" physical-zoom-supported="false" external-storage-support="true" touch-af="true" supported-mode="video,pro_video"/>
     <local name="BACK_CAMCORDER_RESOLUTION_FEATURE_MAP_3840X2160_24FPS" value="true" hdr="true" hdr10="false" snapshot-support="true" snapshot-size="4000x2252" vdis="false" super-vdis="false" effect="false" object-tracking="false" seamless-zoom-support="true" physical-zoom-supported="false" external-storage-support="true" supported-mode="pro_video"/>
     <local name="BACK_CAMCORDER_RESOLUTION_FEATURE_MAP_1920X1080_24FPS" value="true" hdr="true" hdr10="false" snapshot-support="true" snapshot-size="4000x2252" vdis="false" super-vdis="false" effect="false" object-tracking="false" seamless-zoom-support="true" physical-zoom-supported="false" external-storage-support="true" supported-mode="pro_video"/>
-    <local name="BACK_CAMCORDER_RESOLUTION_FEATURE_MAP_1920X1080_120FPS" value="true" hdr="true" hdr10="false" snapshot-support="false" snapshot-size="4000x2252" vdis="false" super-vdis="false" effect="false" object-tracking="false" seamless-zoom-support="true" physical-zoom-supported="false" external-storage-support="true" supported-mode="pro_video"/>
+    <local name="BACK_CAMCORDER_RESOLUTION_FEATURE_MAP_1920X1080_120FPS" value="true" hdr="true" hdr10="false" snapshot-support="false" snapshot-size="4000x2252" vdis="false" super-vdis="false" effect="false" object-tracking="false" seamless-zoom-support="true" physical-zoom-supported="false" external-storage-support="true" uw-support="false" supported-mode="pro_video"/>
     <local name="BACK_CAMCORDER_RESOLUTION_FEATURE_MAP_640X480" value="false" hdr="true" hdr10="false" snapshot-support="true" snapshot-size="4000x3000" vdis="false" super-vdis="false" effect="true" object-tracking="false" seamless-zoom-support="true" physical-zoom-supported="false" external-storage-support="true" touch-af="true"/>
     <local name="BACK_CAMCORDER_RESOLUTION_FEATURE_MAP_176X144" value="true"/>
 
     <!-- Recording resolution - FRONT -->
     <local name="FRONT_CAMERA_RECORDING_DEFAULT_RESOLUTION" value="1920x1080"/>
     <local name="FRONT_CAMERA_RECORDING_MIN_RESOLUTION" value="1280x720"/>
-    <local name="FRONT_CAMCORDER_RESOLUTION_FEATURE_MAP_3840X2160" value="true" hdr="true" hdr10="false" snapshot-support="true" snapshot-size="4000x2252" vdis="true" super-vdis="false" effect="false" object-tracking="false" external-storage-support="true" touch-af="true" supported-mode="video,pro_video"/>
-    <local name="FRONT_CAMCORDER_RESOLUTION_FEATURE_MAP_2400X1080" value="true" hdr="true" hdr10="false" snapshot-support="true" snapshot-size="4000x1868" vdis="true" super-vdis="false" effect="true" object-tracking="false" external-storage-support="true" touch-af="true" supported-mode="video,pro_video"/>
-    <local name="FRONT_CAMCORDER_RESOLUTION_FEATURE_MAP_1920X1440" value="false" hdr="true" hdr10="false" snapshot-support="true" snapshot-size="4000x3000" vdis="true" super-vdis="false" effect="true" object-tracking="false" external-storage-support="true" touch-af="true" supported-mode="video,pro_video"/>
-    <local name="FRONT_CAMCORDER_RESOLUTION_FEATURE_MAP_1920X1080" value="true" hdr="true" hdr10="false" snapshot-support="true" snapshot-size="4000x2252" vdis="true" super-vdis="false" effect="true" object-tracking="false" external-storage-support="true" touch-af="true" supported-mode="video,pro_video"/>
-    <local name="FRONT_CAMCORDER_RESOLUTION_FEATURE_MAP_1920X1080_60FPS" value="true" hdr="true" hdr10="false" snapshot-support="true" snapshot-size="4000x2252" vdis="true" super-vdis="false" effect="false" object-tracking="false" external-storage-support="true" touch-af="false" supported-mode="video,pro_video"/>
-    <local name="FRONT_CAMCORDER_RESOLUTION_FEATURE_MAP_1440X1440" value="true" hdr="true" hdr10="false" snapshot-support="true" snapshot-size="2992x2992" vdis="true" super-vdis="false" effect="true" object-tracking="false" external-storage-support="true" touch-af="true" supported-mode="video,pro_video"/>
-    <local name="FRONT_CAMCORDER_RESOLUTION_FEATURE_MAP_1280X720" value="true" hdr="true" hdr10="false" snapshot-support="true" snapshot-size="4000x2252" vdis="true" super-vdis="false" effect="true" object-tracking="false" external-storage-support="true" touch-af="true" supported-mode="video,pro_video"/>
-    <local name="FRONT_CAMCORDER_RESOLUTION_FEATURE_MAP_3840X2160_24FPS" value="true" hdr="true" hdr10="false" snapshot-support="true" snapshot-size="4000x2252" vdis="false" super-vdis="false" effect="false" object-tracking="false" external-storage-support="true" touch-af="true" supported-mode="pro_video"/>
-    <local name="FRONT_CAMCORDER_RESOLUTION_FEATURE_MAP_1920X1080_24FPS" value="true" hdr="true" hdr10="false" snapshot-support="true" snapshot-size="4000x2252" vdis="false" super-vdis="false" effect="false" object-tracking="false" external-storage-support="true" touch-af="true" supported-mode="pro_video"/>
-    <local name="FRONT_CAMCORDER_RESOLUTION_FEATURE_MAP_640X480" value="false" hdr="true" hdr10="false" snapshot-support="true"  snapshot-size="4000x3000" vdis="false" super-vdis="false" effect="true" object-tracking="false" external-storage-support="true" touch-af="true"/>
+    <local name="FRONT_CAMCORDER_RESOLUTION_FEATURE_MAP_3840X2160" value="true" hdr="true" hdr10="false" snapshot-support="true" snapshot-size="4000x2252" vdis="false" super-vdis="false" effect="true" object-tracking="false" seamless-zoom-support="true" external-storage-support="true" touch-af="false" supported-mode="video,pro_video"/>
+    <local name="FRONT_CAMCORDER_RESOLUTION_FEATURE_MAP_2400X1080" value="true" hdr="true" hdr10="false" snapshot-support="true" snapshot-size="4000x1868" vdis="false" super-vdis="false" effect="true" object-tracking="false" seamless-zoom-support="true" external-storage-support="true" touch-af="false" supported-mode="video,pro_video"/>
+    <local name="FRONT_CAMCORDER_RESOLUTION_FEATURE_MAP_1920X1440" value="false" hdr="true" hdr10="false" snapshot-support="true" snapshot-size="4000x3000" vdis="false" super-vdis="false" effect="true" object-tracking="false" seamless-zoom-support="true" external-storage-support="true" touch-af="false" supported-mode="video,pro_video"/>
+    <local name="FRONT_CAMCORDER_RESOLUTION_FEATURE_MAP_1920X1080" value="true" hdr="true" hdr10="false" snapshot-support="true" snapshot-size="4000x2252" vdis="false" super-vdis="false" effect="true" object-tracking="false" seamless-zoom-support="true" external-storage-support="true" touch-af="false" supported-mode="video,pro_video"/>
+    <local name="FRONT_CAMCORDER_RESOLUTION_FEATURE_MAP_1920X1080_60FPS" value="true" hdr="true" hdr10="false" snapshot-support="true" snapshot-size="4000x2252" vdis="false" super-vdis="false" effect="false" object-tracking="false" seamless-zoom-support="true" external-storage-support="true" touch-af="false" supported-mode="video,pro_video"/>
+    <local name="FRONT_CAMCORDER_RESOLUTION_FEATURE_MAP_1440X1440" value="true" hdr="true" hdr10="false" snapshot-support="true" snapshot-size="2992x2992" vdis="false" super-vdis="false" effect="true" object-tracking="false" seamless-zoom-support="true" external-storage-support="true" touch-af="false" supported-mode="video,pro_video"/>
+    <local name="FRONT_CAMCORDER_RESOLUTION_FEATURE_MAP_1280X720" value="true" hdr="true" hdr10="false" snapshot-support="true" snapshot-size="4000x2252" vdis="false" super-vdis="false" effect="true" object-tracking="false" seamless-zoom-support="true" external-storage-support="true" touch-af="false" supported-mode="video,pro_video"/>
+    <local name="FRONT_CAMCORDER_RESOLUTION_FEATURE_MAP_3840X2160_24FPS" value="true" hdr="true" hdr10="false" snapshot-support="true" snapshot-size="4000x2252" vdis="false" super-vdis="false" effect="false" object-tracking="false" seamless-zoom-support="true" external-storage-support="true" touch-af="false" supported-mode="pro_video"/>
+    <local name="FRONT_CAMCORDER_RESOLUTION_FEATURE_MAP_1920X1080_24FPS" value="true" hdr="true" hdr10="false" snapshot-support="true" snapshot-size="4000x2252" vdis="false" super-vdis="false" effect="false" object-tracking="false" seamless-zoom-support="true" external-storage-support="true" touch-af="false" supported-mode="pro_video"/>
+    <local name="FRONT_CAMCORDER_RESOLUTION_FEATURE_MAP_640X480" value="false" hdr="true" hdr10="false" snapshot-support="true"  snapshot-size="4000x3000" vdis="false" super-vdis="false" effect="true" object-tracking="false" seamless-zoom-support="true" external-storage-support="true" touch-af="false"/>
     <local name="FRONT_CAMCORDER_RESOLUTION_FEATURE_MAP_176X144" value="true"/>
 
     <!-- Camcorder resolution features -->
@@ -112,7 +112,6 @@
 	<local name="SUPPORT_RAW_CAPTURE" value="true"/>
 	<local name="SUPPORT_LIVE_FOCUS_ZOOM" value="true"/>
     <local name="SUPPORT_SLOW_MOTION_LENS_CHANGE" value="true"/>
-    <local name="SUPPORT_SEAMLESS_ZOOM" value="true"/>
     <local name="SUPPORT_WIDE_LENS_CORRECTION" value="true"/>
     <local name="DIGITAL_ZOOM_SHORTCUT_LIST" value="10.0, 20.0"/>
 
@@ -135,7 +134,7 @@
     <local name="SUPPORT_VIDEO_BOKEH_EFFECT" value="true"/>
     <local name="SUPPORT_CONTROL_VIDEO_BOKEH_EFFECT_IN_RECORDING" value="true"/>
     <local name="SUPPORT_VIDEO_BOKEH_LENS_TYPE_CHANGE" value="true"/>
-    <local name="SUPPORT_LIVE_FOCUS_BACK_CAMERA_ANGLE_CHANGE_BY_ZOOM" value="true"/>
+    <local name="SUPPORT_LIVE_FOCUS_BACK_CAMERA_ANGLE_CHANGE_BY_ZOOM" value="false"/>
 
     <!-- Composition guide -->
     <local name="SUPPORT_COMPOSITION_GUIDE" value="true" />
@@ -145,7 +144,7 @@
 
     <!-- Additional effects like live bokeh/motion photo/star effect in labs -->
     <local name="SUPPORT_ADDITIONAL_EFFECTS_WITH_SCENE_DETECTION" value="true" />
-    <local name="SUPPORT_SCENE_DETECTION_LITE" value="true" />
+    <local name="SUPPORT_SCENE_DETECTION" value="true" />
     <local name="SUPPORT_ADDITIONAL_SCENE_BRIGHT_NIGHT" value="true" />
 
     <!-- Camera related features -->
@@ -193,7 +192,6 @@
     <local name="FRONT_CAMERA_PREVIEW_FPS_MIN" value="8" />
     <local name="CAMERA_PREVIEW_FPS_MIN" value="15" />
     <local name="BACK_WIDE_CAMERA_PREVIEW_FPS_MIN" value="10" />
-    <local name="DELAY_TIME_TO_RESUME_WHEN_SWITCH_FACING_WHILE_RECORDING" value="100" />
 
     <!-- Performance -->
     <local name="REMOSAIC_CAPTURE_LOW_PERFORMANCE" value="false"/>
@@ -327,16 +325,6 @@
     <local name="SUPPORT_VIDEO_AUTO_FRAMING" value="true" />
     <local name="SUPPORT_FRONT_VIDEO_AUTO_FRAMING" value="true" />
     <local name="SUPPORT_BACK_VIDEO_AUTO_FRAMING" value="true" />
-
-    <!-- camera assistant features -->
-    <local name="SUPPORT_CAMERA_ASSISTANT" value="true"/>
-	<local name="SUPPORT_CAMERA_ASSISTANT_ADAPTIVE_PIXEL" value="true"/>
-    <local name="SUPPORT_CAMERA_ASSISTANT_AUTO_HDR" value="true"/>
-    <local name="SUPPORT_CAMERA_ASSISTANT_AUTO_LENS_SWITCHING" value="true"/>
-    <local name="SUPPORT_CAMERA_ASSISTANT_CROP_ZOOM_X2" value="true"/>
-    <local name="SUPPORT_CAMERA_ASSISTANT_FAST_SHUTTER" value="true"/>
-    <local name="SUPPORT_CAMERA_ASSISTANT_SOFTEN_PICTURE" value="true"/>
-    <local name="SUPPORT_CAMERA_ASSISTANT_FOCUS_PRIORITY_MODE" value="true"/>
 
     <!-- Advance option HDR10+ Video Recording -->
     <local name="SUPPORT_HDR10_PLUS_RECORDING" value="false"/>
