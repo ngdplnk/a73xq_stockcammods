@@ -176,7 +176,7 @@
     <local name="SUPPORT_HEIF_FORMAT" value="true"/>
 
     <!-- Live BOKEH EFFECT -->
-    <local name="SUPPORT_DUAL_BOKEH_EFFECT" value="true"/>
+    <local name="SUPPORT_DUAL_BOKEH_EFFECT" value="false"/>
     <local name="SUPPORT_SINGLE_BOKEH_EFFECT" value="true"/>
 
     <!-- Camera Preview FPS Variations -->
@@ -334,5 +334,5 @@
     <!-- Enable Qr code detection -->
     <local name="SUPPORT_QR_CODE_DETECTION" value="true" />
 
-    <!-- MODDED FOR A73 5G BY @NGDPLNK -->
+    <!-- FOR A73 5G ONLY - MODDED BY @NGDPLNk -->
 </resources>
