@@ -7,9 +7,9 @@ To use this mods, download the desired file and make sure to rename it to `camer
 ## For OneUI 6
 
 > [!IMPORTANT]
-> - Enabling Video stabilization + Auto FPS makes visual bug on recorded videos.
 > - Selfie Pro Mode doesn't work on RAW Enabled.
 > - Zoom in Pro Video 1080p 120fps works ONLY below 6.6x
+> - UW Pro Mode allows zooming up to 2.0x
 
 - [Latest camera-feature.xml](https://github.com/ngdplnk/a73_stockcammods/blob/main/oneui-6/camera-feature.xml)
 
