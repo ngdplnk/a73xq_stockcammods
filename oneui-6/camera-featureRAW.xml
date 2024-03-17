@@ -171,7 +171,9 @@
     <local name="DISPLAY_CUTOUT_POSITION" value="1" />
 
     <!-- Auto Framing -->
-    <local name="SUPPORT_VIDEO_AUTO_FRAMING" value="true"/>
+    <local name="SUPPORT_VIDEO_AUTO_FRAMING" value="true" />
+    <local name="SUPPORT_BACK_VIDEO_AUTO_FRAMING" value="true" />
+    <local name="SUPPORT_FRONT_VIDEO_AUTO_FRAMING" value="true" />
     
     <!-- Hyperlapse Feature -->
     <local name="SUPPORT_HYPER_LAPSE_UHD" value="false"/>
@@ -181,10 +183,14 @@
     <local name="SUPPORT_HYPER_LAPSE_ASTROGRAPHY" value="true"/>
 
     <!-- VDIS+Tracking AF -->
+    <local name="SUPPORT_VIDEO_STABILIZATION_WITH_TRACKING_AF" value="true"/>
+
     <local name="SUPPORT_FILTER_COMBINE" value="true"/>
     <local name="SUPPORT_MY_FILTER" value="true"/>
 
     <local name="CAMERA_SUPPORT_PICTURE_FORMAT" value="true"/>
+
+    <local name="SUPPORT_ZOOM_SHORTCUT_WITH_LENS_BUTTON" value="true"/>
 
     <local name="SUPPORT_OBJECT_TRACKING_AF" value="false"/>
 
@@ -230,6 +236,8 @@
 
     <local name="SUPPORT_CLOSE_UP_SUGGESTION" value="true"/>
 
+    <local name="KEEP_CHANGED_EV_AFTER_ZOOM" value="true"/>
+
     <local name="SUPPORT_QUICK_SHUTTER" value="true"/>
 
     <local name="SUPPORT_SUPER_SLOW_MOTION_AUTO_DETECTION" value="false"/>
@@ -248,7 +256,6 @@
     <local name="SUPPORT_PRO_VIDEO_WIDE_LENS_120FPS" value="true"/>
     
     <local name="SUPPORT_BACK_WIDE_PRO" value="true"/>
-    <local name="SUPPORT_BACK_TELE_PRO" value="true"/>
 
     <local name="MAX_BURST_CAPTURE_COUNT" value="1000" />
 
@@ -270,6 +277,7 @@
     <local name="SUPPORT_POST_PROCESSING_MOTION_PHOTO" value="true"/>
     <local name="SUPPORT_POST_PROCESSING_NIGHT_SHOT" value="true"/>
     <local name="SUPPORT_POST_PROCESSING_MAX_NIGHT_SHOT" value="true"/>
+    <local name="SUPPORT_FORCED_SHOT_INTERVAL_FOR_BACK_HIGH_RESOLUTION" value="true"/>
 
     <local name="SUPPORT_DISPLAY_FRAME_RATE_60HZ" value="true"/>
 
