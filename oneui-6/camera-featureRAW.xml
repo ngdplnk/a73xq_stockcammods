@@ -174,7 +174,7 @@
     <local name="SUPPORT_VIDEO_AUTO_FRAMING" value="true"/>
     
     <!-- Hyperlapse Feature -->
-    <local name="SUPPORT_HYPER_LAPSE_UHD" value="true"/>
+    <local name="SUPPORT_HYPER_LAPSE_UHD" value="false"/>
     <local name="SUPPORT_HYPER_LAPSE_NIGHT_AUTO" value="true"/>
     <local name="SUPPORT_HYPER_LAPSE_SEAMLESS_ZOOM" value="true"/>
     <local name="SUPPORT_FRONT_HYPER_LAPSE_NIGHT" value="true"/>
