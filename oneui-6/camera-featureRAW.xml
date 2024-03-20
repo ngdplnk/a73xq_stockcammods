@@ -249,6 +249,7 @@
     <!-- new pro/pro video features -->
     <local name="SUPPORT_PRO_AE_PRIORITY_MODE" value="true"/>
     <local name="SUPPORT_HISTOGRAM" value="true"/>
+    <local name="SUPPORT_PRO_VIDEO_ZOOM_ROCKER" value="true"/>
     <local name="SUPPORT_PRO_VIDEO_FOCUS_PEAKING" value="true"/>
     <local name="SUPPORT_PRO_VIDEO_AUDIO_INPUT_CONTROL" value="true"/>
     <local name="SUPPORT_PRO_VIDEO_AUDIO_BLUETOOTH_MIX_MIC" value="true"/>
