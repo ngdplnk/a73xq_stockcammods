@@ -4,7 +4,7 @@ Mods for A73 5G camera-feature.xml based on S23 and S24 Ultra configs.
 
 To use this mods, download the desired file and make sure to rename it to `camera-feature.xml`. Then, using ADB or Root, replace the existent file in `/system/cameradata` with the downloaded one. Clear the Camera app's data, force close it, and reopen it.
 
-## For OneUI 6
+## For OneUI 6 - 6.1
 
 > [!IMPORTANT]
 > - Selfie Pro Mode doesn't work on RAW Enabled.
