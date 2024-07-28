@@ -290,6 +290,11 @@
     <local name="SUPPORT_SINGLE_TAKE_HIGHLIGHT_VIDEOS" value="true"/>
     <local name="SUPPORT_VDIS_IN_SINGLE_TAKE" value="true"/>
 
+    <!-- directors view features -->
+    <local name="SUPPORT_DIRECTORS_VIEW_VDIS" value="true"/>
+    <local name="SUPPORT_DIRECTORS_VIEW_SAVE_OPTION" value="true"/>
+    <local name="SUPPORT_DIRECTORS_VIEW_PIP_SIZE_CONTROL" value="true"/>
+
     <!-- post processing features -->
     <local name="SUPPORT_POST_PICTURE_PROCESSING" value="true"/>
     <local name="SUPPORT_POST_PROCESSING_MOTION_PHOTO" value="true"/>
