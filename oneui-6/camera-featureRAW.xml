@@ -1,20 +1,22 @@
 <?xml version= "1.0" encoding= "UTF-8"?>
 <resources>
     <!-- Shootingmode -->
-    <local name="SHOOTING_MODE_LIVE_FOCUS" back="LIVE_FOCUS" front="SELFIE_FOCUS" enable="true" more="false" order="1"/>
-    <local name="SHOOTING_MODE_PHOTO" back="PHOTO" front="PHOTO" enable="true" more="false" order="2"/>
-    <local name="SHOOTING_MODE_VIDEO" back="VIDEO" front="VIDEO" enable="true" more="false" order="3"/>
+    <local name="SHOOTING_MODE_FUN" back="FUN" front="FUN" enable="true" more="false" order="1"/>
+    <local name="SHOOTING_MODE_LIVE_FOCUS" back="LIVE_FOCUS" front="SELFIE_FOCUS" enable="true" more="false" order="2"/>
+    <local name="SHOOTING_MODE_PHOTO" back="PHOTO" front="PHOTO" enable="true" more="false" order="3"/>
+    <local name="SHOOTING_MODE_VIDEO" back="VIDEO" front="VIDEO" enable="true" more="false" order="4"/>
 
     <local name="SHOOTING_MODE_PRO" back="PRO" front="PRO" enable="true" more="true" order="1"/>
     <local name="SHOOTING_MODE_PRO_VIDEO" back="PRO_VIDEO" front="PRO_VIDEO" enable="true" more="true" order="2"/>
     <local name="SHOOTING_MODE_NIGHT" back="NIGHT" front="NIGHT" enable="true" more="true" order="3"/>
     <local name="SHOOTING_MODE_FOOD" back="FOOD" enable="true" more="true" order="4"/>
-    <local name="SHOOTING_MODE_PANORAMA" back="PANORAMA" enable="true" more="true" order="5" preview-size="1920x1080" capture-size="4000x3000"/>
-    <local name="SHOOTING_MODE_SLOW_MOTION" back="SLOW_MOTION" front="SLOW_MOTION" enable="true" more="true" order="6" preview-size="1920x1080" capture-size="1920x1080"/>
+    <local name="SHOOTING_MODE_PANORAMA" back="PANORAMA" enable="true" more="true" order="5" preview-size="1280x720" capture-size="4000x3000"/>
+    <local name="SHOOTING_MODE_SLOW_MOTION" back="SLOW_MOTION" front="SLOW_MOTION" enable="true" more="true" order="6" preview-size="1280x720" capture-size="1920x1080"/>
     <local name="SHOOTING_MODE_SUPER_SLOW_MOTION" back="SUPER_SLOW_MOTION" enable="true" more="true" order="7" preview-size="1280x720" capture-size="1280x720"/>
-    <local name="SHOOTING_MODE_HYPER_LAPSE" back="HYPER_LAPSE" front="HYPER_LAPSE" enable="true" more="true" order="8" preview-size="1920x1080" capture-size="1920x1080"/>
+    <local name="SHOOTING_MODE_HYPER_LAPSE" back="HYPER_LAPSE" front="HYPER_LAPSE" enable="true" more="true" order="8" preview-size="1280x720" capture-size="1920x1080"/>
     <local name="SHOOTING_MODE_SINGLE_TAKE_VIDEO" back="SINGLE_TAKE_VIDEO" front="SINGLE_TAKE_VIDEO" enable="true" more="true" order="9" preview-size="1440x1080"/>
-    <local name="SHOOTING_MODE_MACRO" back="MACRO" enable="true" more="true" order="10" info="4"/>
+    <local name="SHOOTING_MODE_MACRO" back="MACRO" enable="true" more="true" order="10"/>
+    <local name="SHOOTING_MODE_DUAL_RECORDING_V2" back="DUAL_RECORDING_V2" front="DUAL_RECORDING_V2" enable="true" more="true" order="11" preview-size="1280x720"/>
     <local name="SHOOTING_MODE_QR" back="QR" enable="true" more="false" order="100" preview-size="2336x1080"/>
 
     <!-- Capture resolution - BACK -->
@@ -92,7 +94,7 @@
     <local name="FRONT_CAMCORDER_RESOLUTION_FEATURE_MAP_1920X1440" value="false" hdr="true" hdr10="true" snapshot-support="true" snapshot-size="4000x3000" vdis="true" super-vdis="false" effect="true" object-tracking="false" external-storage-support="true" supported-mode="video,pro_video"/>
     <local name="FRONT_CAMCORDER_RESOLUTION_FEATURE_MAP_1920X1080" value="true" hdr="true" hdr10="true" snapshot-support="true" snapshot-size="4000x2250" vdis="true" super-vdis="false" effect="true" object-tracking="false" external-storage-support="true" supported-mode="video,pro_video"/>
     <local name="FRONT_CAMCORDER_RESOLUTION_FEATURE_MAP_1920X1080_60FPS" value="true" hdr="true" hdr10="true" snapshot-support="true" snapshot-size="4000x2250" vdis="false" super-vdis="false" effect="false" object-tracking="false" external-storage-support="true" supported-mode="video,pro_video"/>
-    <local name="FRONT_CAMCORDER_RESOLUTION_FEATURE_MAP_1920X1080_120FPS" value="true" hdr="true" hdr10="false" snapshot-support="false" snapshot-size="4000x2250" vdis="false" super-vdis="false" effect="false" object-tracking="false" external-storage-support="false" supported-mode="slow_motion"/>
+    <local name="FRONT_CAMCORDER_RESOLUTION_FEATURE_MAP_1920X1080_120FPS" value="true" hdr="true" hdr10="false" snapshot-support="true" snapshot-size="4000x2250" vdis="false" super-vdis="false" effect="false" object-tracking="false" external-storage-support="true" supported-mode="pro_video,slow_motion"/>
     <local name="FRONT_CAMCORDER_RESOLUTION_FEATURE_MAP_1440X1440" value="true" hdr="true" hdr10="true" snapshot-support="true" snapshot-size="2992x2992" vdis="true" super-vdis="false" effect="true" object-tracking="false" external-storage-support="true" supported-mode="video,pro_video"/>
     <local name="FRONT_CAMCORDER_RESOLUTION_FEATURE_MAP_1280X720" value="true" hdr="true" hdr10="true" snapshot-support="true" snapshot-size="4000x2250" vdis="true" super-vdis="false" effect="true" object-tracking="false" external-storage-support="true" supported-mode="video,pro_video"/>
     <local name="FRONT_CAMCORDER_RESOLUTION_FEATURE_MAP_3840X2160_24FPS" value="true" hdr="true" hdr10="true" snapshot-support="true" snapshot-size="4000x2250" vdis="false" super-vdis="false" effect="true" object-tracking="false" external-storage-support="true" supported-mode="pro_video"/>
@@ -115,6 +117,7 @@
     <local name="BACK_WIDE_CAMERA_ID" value="2"/>
     <local name="BACK_MACRO_CAMERA_ID" value="54"/>
     <local name="FRONT_CROP_FOV_CAMERA_ID" value="3"/>
+    <local name="SUPPORT_RECORDING_LENS_CHANGE" value="true"/>
 
     <!-- Zoom features -->
     <local name="DEFAULT_MAX_ZOOM_VALUE" value="1000" />
@@ -124,8 +127,8 @@
     <!-- VI features -->
     <local name="SUPPORT_SEAMLESS_LENS_CHANGE_VI" value="true" />
     <local name="TRANSITION_SCALE_FACTOR_WIDE_TO_NORMAL" value="1.9f" />
-    <local name="TRANSITION_NORMAL_TO_WIDE_ANIMATION_DURATION" value="100" />
-    <local name="TRANSITION_WIDE_TO_NORMAL_ANIMATION_DURATION" value="100" />	
+    <local name="TRANSITION_NORMAL_TO_WIDE_ANIMATION_DURATION" value="150" />
+    <local name="TRANSITION_WIDE_TO_NORMAL_ANIMATION_DURATION" value="150" />	
 
     <!-- Shutter LP features -->
     <local name="SUPPORT_TAP_AND_HOLD_CAMERA_BUTTON" value="true" />
@@ -143,7 +146,7 @@
     <local name="SUPPORT_BACK_DUAL_PORTRAIT" value="true"/>
     <local name="SUPPORT_SINGLE_BOKEH_EFFECT" value="true"/>
     <local name="SUPPORT_BOKEH_FOCUSED_REGION" value="true"/>
-    <local name="SUPPORT_VIDEO_BOKEH_EFFECT" value="false"/>
+    <local name="SUPPORT_VIDEO_BOKEH_EFFECT" value="true"/>
     <local name="SUPPORT_LIVE_FOCUS_VIDEO_BEAUTY" value="true"/>
     <local name="SUPPORT_CONTROL_VIDEO_BOKEH_EFFECT_IN_RECORDING" value="true"/>
 
@@ -157,6 +160,8 @@
 
     <!-- Live Beauty features -->
     <local name="SUPPORT_LIVE_BEAUTY_IN_AUTO_MODE" value="true"/>
+    <local name="SUPPORT_LIVE_BEAUTY_MANUAL_RESHAPE" value="true"/>
+    <local name="SUPPORT_LIVE_BEAUTY_SHAPE_CORRECTION" value="true"/>
     <local name="SUPPORT_BEAUTY_BRIGHTEN" value="true"/>
 
     <!-- temporary enable for QC -->
@@ -246,6 +251,18 @@
 
     <local name="SUPPORT_UNLIMITED_VIDEO_FILE_SIZE" value="true"/>
 
+    <local name="SUPPORT_TRUE_HDR" value="true"/>
+
+    <local name="SUPPORT_BACK_TRUE_HDR" value="true"/>
+
+    <local name="SUPPORT_FRONT_TRUE_HDR" value="true"/>
+
+    <local name="SUPPORT_VIDEO_HDR" value="true"/>
+
+    <local name="SUPPORT_3HDR_RECORDING" value="true"/>
+
+    <local name="SUPPORT_AUTO_HDR_MENU" value="true"/>
+
     <!-- new pro/pro video features -->
     <local name="SUPPORT_PRO_AE_PRIORITY_MODE" value="true"/>
     <local name="SUPPORT_HISTOGRAM" value="true"/>
@@ -303,6 +320,6 @@
     <local name="SUPPORT_CAMERA_ASSISTANT_DOF_ADAPTER" value="false"/>
 	<local name="SUPPORT_CAMERA_ASSISTANT_ZOOM_X100" value="false"/>
 
-    <!-- FOR A73 5G ONLY - MODDED BY @NGDPLNk -->
+    <!-- FOR A73 5G ONLY - MODDED BY @ngdplnk -->
 
 </resources>

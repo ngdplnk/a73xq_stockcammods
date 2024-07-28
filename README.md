@@ -7,9 +7,9 @@ To use this mods, download the desired file and make sure to rename it to `camer
 ## For OneUI 6 - 6.1
 
 > [!IMPORTANT]
-> - Selfie Pro Mode doesn't work on RAW Enabled.
+> - Front Camera crashes on Pro Mode with RAW Enabled mod.
 > - Zoom in Pro Video 1080p 120fps works ONLY below 6.6x
-> - UW Pro Mode allows zooming up to 2.0x
+> - UW Pro Mode allows zooming up to 2.0x (bug)
 
 - [Latest camera-feature.xml](https://github.com/ngdplnk/a73xq_stockcammods/blob/main/oneui-6/camera-feature.xml)
 
@@ -18,7 +18,7 @@ To use this mods, download the desired file and make sure to rename it to `camer
 - [STOCK camera-feature.xml](https://github.com/ngdplnk/a73xq_stockcammods/blob/main/oneui-6/camera-featureSTOCK.xml)
 
 
-## For OneUI 5.1
+## For OneUI 5.1 (Deprecated)
 
 > [!IMPORTANT]
 > - Selfie Pro Mode doesn't work on RAW Enabled.
@@ -35,4 +35,4 @@ To use this mods, download the desired file and make sure to rename it to `camer
 Thanks to [Surfeur-des-reves](https://forum.xda-developers.com/m/surfeur-des-reves.1042515/) on XDA for giving me the example [S23 Ultra camera-feature.xml](https://github.com/ngdplnk/a73xq_stockcammods/blob/main/examples/camera-featureS23U.xml) and to [dr.ketan](https://xdaforums.com/m/dr-ketan.3931450/) on XDA for giving me the example [S24 Ultra camera-feature.xml](https://github.com/ngdplnk/a73xq_stockcammods/blob/main/examples/camera-featureS24U.xml) alowing me to create this mods.
 
 
-FOR A73 5G ONLY - MODDED BY [@NGDPLNk](https://github.com/ngdplnk)
+FOR A73 5G ONLY - MODDED BY [@ngdplnk](https://github.com/ngdplnk)
