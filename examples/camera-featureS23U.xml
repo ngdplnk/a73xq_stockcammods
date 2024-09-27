@@ -26,11 +26,21 @@
     <local name="BACK_CAMERA_RESOLUTION_1BY1_LARGE" value="2992x2992" />
     <local name="BACK_CAMERA_PICTURE_DEFAULT_RESOLUTION" value="4000x3000" />
 
-    <!-- Back camera super resolution -->
+    <!-- Back camera high resolution -->
     <local name="BACK_CAMERA_RESOLUTION_SUPER_RESOLUTION" value="8160x6120"/>
+    <local name="BACK_CAMERA_RESOLUTION_HIGH_RESOLUTION_16BY9" value="8160x4592"/>
+    <local name="BACK_CAMERA_RESOLUTION_HIGH_RESOLUTION_1BY1" value="6112x6112"/>
+    <local name="BACK_CAMERA_RESOLUTION_HIGH_RESOLUTION_FULL_RATIO" value="8160x3808"/>
+    
+    <!-- Back camera ultra high resolution -->
     <local name="BACK_CAMERA_RESOLUTION_ULTRA_HIGH_RESOLUTION" value="16320x12240"/>
+    <local name="BACK_CAMERA_RESOLUTION_ULTRA_HIGH_RESOLUTION_16BY9" value="16320x9180"/>
+    <local name="BACK_CAMERA_RESOLUTION_ULTRA_HIGH_RESOLUTION_1BY1" value="12240x12240"/>
+    <local name="BACK_CAMERA_RESOLUTION_ULTRA_HIGH_RESOLUTION_FULL_RATIO" value="16320x7612"/>
+    
+    <!-- Back camera pro high resolution -->
     <local name="BACK_CAMERA_PRO_RESOLUTION_HIGH_RESOLUTION" value="8160x6120"/>
-
+		
     <!-- Capture resolution - FRONT -->
     <local name="FRONT_CAMERA_RESOLUTION_FULL_RATIO" value="4000x1868" />
     <local name="FRONT_CAMERA_RESOLUTION_16BY9_LARGE" value="4000x2252" />
@@ -124,9 +134,8 @@
     <!-- Shutter LP features -->
     <local name="SUPPORT_TAP_AND_HOLD_CAMERA_BUTTON" value="true" />
 
-    <!-- Intelligent recognition -->
-    <local name="SUPPORT_INTELLIGENT_RECOGNITION_TIPS" value="true" />
-    <local name="SUPPORT_SUPER_RESOLUTION_SMART_TIPS" value="true"/>
+    <!-- Scene optimizer -->
+    <local name="SUPPORT_SCENE_OPTIMIZER" value="true" />
     
     <!-- Lens dirty detection -->
     <local name="SUPPORT_LENS_DIRTY_DETECTION" value="true" />
@@ -149,9 +158,6 @@
     
     <!-- Food feature -->
     <local name="SUPPORT_FOOD_SEAMLESS_ZOOM" value="true"/>
-
-    <!-- Additional effects like live bokeh/motion photo/star effect in labs -->
-    <local name="SUPPORT_ADDITIONAL_EFFECTS_WITH_SCENE_DETECTION" value="true" />
 
     <!-- Live Beauty features -->
     <local name="SUPPORT_LIVE_BEAUTY_IN_AUTO_MODE" value="true"/>
@@ -251,6 +257,7 @@
     <local name="SUPPORT_SINGLE_TAKE_EXTENDED_CAPTURE" value="true"/>
     <local name="SUPPORT_SINGLE_TAKE_FILTERED_VIDEOS" value="true"/>
     <local name="SUPPORT_SINGLE_TAKE_HIGHLIGHT_VIDEOS" value="true"/>
+    <local name="SUPPORT_SINGLE_TAKE_MULTI_CAMERA" value="true"/>
     <local name="SUPPORT_VDIS_IN_SINGLE_TAKE" value="true"/>
 
     <!-- directors view features -->
@@ -267,30 +274,33 @@
 
     <local name="SUPPORT_DISPLAY_FRAME_RATE_60HZ" value="true"/>
 
-    <local name="QUICK_SETTING_GUIDE_LINE" value="0.109f"/>
+    <local name="QUICK_SETTING_GUIDE_LINE" value="0.097f"/>
     <local name="TOP_GUIDE_LINE" value="0.109f"/>
     <local name="BOTTOM_GUIDE_LINE" value="0.731f"/>
-    <local name="SHUTTER_AREA_GUIDE_LINE" value="0.813f"/>
- 
+    <local name="SHUTTER_AREA_GUIDE_LINE" value="0.804f"/>
+
     <local name="SUPPORT_NIGHT_CIRCLE_SCREEN_FLASH" value="true"/>
-    
-    <local name="SUPPORT_DETAIL_ENHANCER_BUTTON" value="false"/>
 
     <local name="SUPPORT_DEFAULT_HEVC" value="true"/>
     <local name="SUPPORT_VIDEO_HIGH_BITRATE" value="true"/>
+    <local name="SUPPORT_VIDEO_AUTO_FPS_OPTION" value="true"/>
 
     <local name="SUPPORT_HIGH_RESOLUTION_SHUTTER_VI" value="true"/>
+
+    <local name="SUPPORT_QUICK_VIEW_SCALE_VI" value="true"/>
 
     <!-- super steady features -->
     <local name="SUPPORT_SUPER_STEADY_CROP_ZOOM_X2" value="true"/>
 
     <!-- camera assistant features -->
     <local name="SUPPORT_CAMERA_ASSISTANT" value="true"/>
-	<local name="SUPPORT_CAMERA_ASSISTANT_ADAPTIVE_PIXEL" value="true"/>
-    <local name="SUPPORT_CAMERA_ASSISTANT_AUTO_HDR" value="true"/>
+    <local name="SUPPORT_CAMERA_ASSISTANT_ADAPTIVE_PIXEL" value="true"/>
+    <local name="SUPPORT_CAMERA_ASSISTANT_AUDIO_MONITORING" value="true"/>
     <local name="SUPPORT_CAMERA_ASSISTANT_AUTO_LENS_SWITCHING" value="true"/>
     <local name="SUPPORT_CAMERA_ASSISTANT_CROP_ZOOM_X2" value="true"/>
-    <local name="SUPPORT_CAMERA_ASSISTANT_FAST_SHUTTER" value="true"/>
-    <local name="SUPPORT_CAMERA_ASSISTANT_SOFTEN_PICTURE" value="true"/>
-    <local name="SUPPORT_CAMERA_ASSISTANT_FOCUS_PRIORITY_MODE" value="true"/>
+    <local name="SUPPORT_CAMERA_ASSISTANT_DIGITAL_ZOOM_UPSCALE" value="true"/>
+    <local name="SUPPORT_CAMERA_ASSISTANT_ZOOM_X100" value="true"/>
+
+    <!-- default value feature -->
+    <local name="DEFAULT_DIGITAL_ZOOM_UPSCALE" value="true"/>
 </resources>
