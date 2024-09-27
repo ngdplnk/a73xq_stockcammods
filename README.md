@@ -1,5 +1,9 @@
 # a73xq-stockcammods
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ngdplnk/a73xq_stockcammods/refs/heads/main/icon.png" alt="SSTools4MC Icon" width="400" />
+</p>
+
 Modded A73 5G's camera-feature.xml based on S23/24 Ultra configs.
 
 To use this mods, download the desired file and make sure to rename it to `camera-feature.xml`. Then, with root access  and using ADB or a File manager, replace the existent file in `/system/cameradata` with the downloaded one. Clear the Camera app's data, force close it, and enjoy!
