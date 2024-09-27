@@ -1,15 +1,13 @@
 # a73xq-stockcammods
 
-Mods for A73 5G camera-feature.xml based on S23 and S24 Ultra configs.
+Modded A73 5G's camera-feature.xml based on S23/24 Ultra configs.
 
-To use this mods, download the desired file and make sure to rename it to `camera-feature.xml`. Then, using ADB or Root, replace the existent file in `/system/cameradata` with the downloaded one. Clear the Camera app's data, force close it, and reopen it.
+To use this mods, download the desired file and make sure to rename it to `camera-feature.xml`. Then, with root access  and using ADB or a File manager, replace the existent file in `/system/cameradata` with the downloaded one. Clear the Camera app's data, force close it, and enjoy!
 
-## For OneUI 6 - 6.1
+## For OneUI 6.1.1
 
 > [!IMPORTANT]
-> - Front Camera crashes on Pro Mode with RAW Enabled mod.
-> - Zoom in Pro Video 1080p 120fps works ONLY below 6.6x
-> - UW Pro Mode allows zooming up to 2.0x (bug)
+> - Zooming in on 1080p120fps over 6.6x crashes the camera.
 
 - [Latest camera-feature.xml](https://github.com/ngdplnk/a73xq_stockcammods/blob/main/oneui-6/camera-feature.xml)
 
@@ -18,21 +16,10 @@ To use this mods, download the desired file and make sure to rename it to `camer
 - [STOCK camera-feature.xml](https://github.com/ngdplnk/a73xq_stockcammods/blob/main/oneui-6/camera-featureSTOCK.xml)
 
 
-## For OneUI 5.1 (Deprecated)
+## Acknowledgements
+Thanks to [Surfeur-des-reves](https://forum.xda-developers.com/m/surfeur-des-reves.1042515/) and [dr.ketan](https://xdaforums.com/m/dr-ketan.3931450/) on XDA for giving me the example [S23 Ultra camera-feature.xml](https://github.com/ngdplnk/a73xq_stockcammods/blob/main/examples/camera-featureS23U.xml) and [S24 Ultra camera-feature.xml](https://github.com/ngdplnk/a73xq_stockcammods/blob/main/examples/camera-featureS24U.xml) respectively, making the existence of these mods possible.
 
-> [!IMPORTANT]
-> - Selfie Pro Mode doesn't work on RAW Enabled.
-> - Zoom in Pro Video 1080p 120fps works ONLY below 6.6x
-
-- [Latest camera-feature.xml](https://github.com/NGDPLNk/a73xq_stockcammods/blob/main/oneui-5.1/camera-feature.xml)
-
-- [Latest RAW Enabled camera-feature.xml](https://github.com/NGDPLNk/a73xq_stockcammods/blob/main/oneui-5.1/camera-featureRAW.xml)
-
-- [STOCK camera-feature.xml](https://github.com/NGDPLNk/a73xq_stockcammods/blob/main/oneui-5.1/camera-featureSTOCK.xml)
-
-
-
-Thanks to [Surfeur-des-reves](https://forum.xda-developers.com/m/surfeur-des-reves.1042515/) on XDA for giving me the example [S23 Ultra camera-feature.xml](https://github.com/ngdplnk/a73xq_stockcammods/blob/main/examples/camera-featureS23U.xml) and to [dr.ketan](https://xdaforums.com/m/dr-ketan.3931450/) on XDA for giving me the example [S24 Ultra camera-feature.xml](https://github.com/ngdplnk/a73xq_stockcammods/blob/main/examples/camera-featureS24U.xml) alowing me to create this mods.
-
+Also, special thanks to [@utkustnr](https://github.com/utkustnr) for helping me test these mods.
 
 FOR A73 5G ONLY - MODDED BY [@ngdplnk](https://github.com/ngdplnk)
+ 
