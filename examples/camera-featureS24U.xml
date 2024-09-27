@@ -265,6 +265,7 @@
     <local name="SUPPORT_SINGLE_TAKE_EXTENDED_CAPTURE" value="true"/>
     <local name="SUPPORT_SINGLE_TAKE_FILTERED_VIDEOS" value="true"/>
     <local name="SUPPORT_SINGLE_TAKE_HIGHLIGHT_VIDEOS" value="true"/>
+    <local name="SUPPORT_SINGLE_TAKE_MULTI_CAMERA" value="true"/>
     <local name="SUPPORT_VDIS_IN_SINGLE_TAKE" value="true"/>
 
     <!-- directors view features -->
@@ -302,7 +303,6 @@
     <local name="SUPPORT_FOOD_CROP_ZOOM_X2" value="true"/>
     <local name="SUPPORT_HYPER_LAPSE_CROP_ZOOM_X2" value="true"/>
     <local name="SUPPORT_NIGHT_CROP_ZOOM_X2" value="true"/>
-    <local name="SUPPORT_PANORAMA_CROP_ZOOM_X2" value="true"/>
 
     <!-- camera assistant features -->
     <local name="SUPPORT_CAMERA_ASSISTANT" value="true"/>
@@ -314,5 +314,5 @@
     <local name="SUPPORT_CAMERA_ASSISTANT_CROP_ZOOM_X10" value="true"/>
     <local name="SUPPORT_CAMERA_ASSISTANT_DIGITAL_ZOOM_UPSCALE" value="true"/>
     <local name="SUPPORT_CAMERA_ASSISTANT_DOF_ADAPTER" value="true"/>
-	<local name="SUPPORT_CAMERA_ASSISTANT_ZOOM_X100" value="true"/>
+    <local name="SUPPORT_CAMERA_ASSISTANT_ZOOM_X100" value="true"/>
 </resources>
