@@ -23,7 +23,5 @@ To use this mods, download the desired file and make sure to rename it to `camer
 ## Acknowledgements
 Thanks to [Surfeur-des-reves](https://forum.xda-developers.com/m/surfeur-des-reves.1042515/) and [dr.ketan](https://xdaforums.com/m/dr-ketan.3931450/) on XDA for giving me the example [S23 Ultra camera-feature.xml](https://github.com/ngdplnk/a73xq_stockcammods/blob/main/examples/camera-featureS23U.xml) and [S24 Ultra camera-feature.xml](https://github.com/ngdplnk/a73xq_stockcammods/blob/main/examples/camera-featureS24U.xml) respectively, making the existence of these mods possible.
 
-Also, special thanks to [@utkustnr](https://github.com/utkustnr) for helping me test these mods.
-
-FOR A73 5G ONLY - MODDED BY [@ngdplnk](https://github.com/ngdplnk)
+FOR A73 5G ONLY - BY [@ngdplnk](https://github.com/ngdplnk) AND [@utkustnr](https://github.com/utkustnr)
  
