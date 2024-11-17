@@ -9,7 +9,7 @@ Enhanced features for your Galaxy A73 5G's Stock Camera based on S24 Ultra confi
 ## Features
 <details>
   <summary>Click here to expand</summary>
-This module allows you yo use the following features:
+This module allows you to use the following features:
 
 - High bitrate recording.
 
