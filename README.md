@@ -50,7 +50,7 @@ This module allows you to use the following features:
 - Anamorphic lens and DOF adapter settings on Camera Assistant.
 </details>
 
-## [📥Latest module for OneUI 6 - 6.1.1](https://github.com/ngdplnk/a73xq_stockcammods/releases/latest/download/a73xq-stockcammods.zip)
+## [📥Latest module for OneUI 6 - 6.1.1](https://github.com/ngdplnk/a73xq_stockcammods/releases/latest)
 
 **If you are using KernelSU, toggle `Umount modules` OFF for the Camera app to get the mods working!!!**
 
