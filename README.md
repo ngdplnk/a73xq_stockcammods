@@ -1,27 +1,60 @@
 # a73xq-stockcammods
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ngdplnk/a73xq_stockcammods/refs/heads/main/icon.png" alt="SSTools4MC Icon" width="400" />
+  <img src="https://raw.githubusercontent.com/ngdplnk/a73xq_stockcammods/refs/heads/main/banner.png" alt="a73xq-stockcammods banner" width="400" />
 </p>
 
-Modded A73 5G's camera-feature.xml based on S23/24 Ultra configs.
+Enhanced features for your Galaxy A73 5G's Stock Camera based on S24 Ultra configs.
 
-To use this mods, download the desired file and make sure to rename it to `camera-feature.xml`. Then, with root access  and using ADB or a File manager, replace the existent file in `/system/cameradata` with the downloaded one. Clear the Camera app's data, force close it, and enjoy!
+## Features
+<details>
+  <summary>Click here to expand</summary>
+This module allows you yo use the following features:
 
-## For OneUI 6.1.1
+- High bitrate recording.
 
-> [!IMPORTANT]
-> - Zooming in on 1080p120fps over 6.6x crashes the camera.
+- Dual Rec and Fun modes.
 
-- [Latest camera-feature.xml](https://github.com/ngdplnk/a73xq_stockcammods/blob/main/oneui-6/camera-feature.xml)
+- Pro/Pro Video on Front Camera.
 
-- [Latest RAW Enabled camera-feature.xml](https://github.com/ngdplnk/a73xq_stockcammods/blob/main/oneui-6/camera-featureRAW.xml)
+- UW Cam support on Pro.
 
-- [STOCK camera-feature.xml](https://github.com/ngdplnk/a73xq_stockcammods/blob/main/oneui-6/camera-featureSTOCK.xml)
+- RAW copies on Pro mode.
 
+- 1000 burst shot max count limit.
 
-## Acknowledgements
-Thanks to [Surfeur-des-reves](https://forum.xda-developers.com/m/surfeur-des-reves.1042515/) and [dr.ketan](https://xdaforums.com/m/dr-ketan.3931450/) on XDA for giving me the example [S23 Ultra camera-feature.xml](https://github.com/ngdplnk/a73xq_stockcammods/blob/main/examples/camera-featureS23U.xml) and [S24 Ultra camera-feature.xml](https://github.com/ngdplnk/a73xq_stockcammods/blob/main/examples/camera-featureS24U.xml) respectively, making the existence of these mods possible.
+- New video resolutions:
+  
+  All resolutions available for Main Camera:
+  - 4k 30/24fps
+  - QHD 60/30fps
+  - 1080p 24/30/60fps
+  - 720p 30fps
+  
+  All resolutions available for Front Camera:
+  - 4k 30/24fps
+  - QHD 30fps
+  - 1080p 24/30/60/120fps
+  - 720p 30fps
 
-FOR A73 5G ONLY - BY [@ngdplnk](https://github.com/ngdplnk) AND [@utkustnr](https://github.com/utkustnr)
- 
+- Pro Video features like Histogram, Sound level, Mic input control, Zoom rocker.
+
+- Super Slow-mo capture duration time switch (0.4/0.8s).
+
+- Single Take Highlight Videos, Slow-mo Clips, Collages and multi-camera.
+
+- Front Camera Bokeh effects: Blur, Big circle, Spin, Zoom, Color Point.
+
+- Night/Astro Hyperlapse.
+
+- Anamorphic lens and DOF adapter settings on Camera Assistant.
+</details>
+
+## [📥Latest module for OneUI 6 - 6.1.1](https://github.com/ngdplnk/a73xq_stockcammods/releases/latest/download/a73xq-stockcammods.zip)
+
+**If you are using KernelSU, toggle `Umount modules` OFF for the Camera app to get the mods working!!!**
+
+## About and acknowledgements
+Mods created and mantained with ❤️ by [@ngdplnk](https://github.com/ngdplnk). For A73 5G only.
+
+Special thanks to [@utkustnr](https://github.com/utkustnr) :shipit:
