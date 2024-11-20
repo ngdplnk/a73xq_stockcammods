@@ -9,6 +9,7 @@ Enhanced features for your Galaxy A73 5G's Stock Camera based on S24 Ultra confi
 ## Features
 <details>
   <summary>Click here to expand</summary>
+
 This module allows you to use the following features:
 
 - High bitrate recording.
@@ -28,13 +29,13 @@ This module allows you to use the following features:
   All resolutions available for Main Camera:
   - 4k 30/24fps
   - QHD 60/30fps
-  - 1080p 24/30/60fps
+  - 1080p AUTO/24/30/60fps
   - 720p 30fps
   
   All resolutions available for Front Camera:
   - 4k 30/24fps
   - QHD 30fps
-  - 1080p 24/30/60/120fps
+  - 1080p AUTO/24/30/60fps
   - 720p 30fps
 
 - Pro Video features like Histogram, Sound level, Mic input control, Zoom rocker.
