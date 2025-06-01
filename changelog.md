@@ -1,7 +1,12 @@
-## v1.1 for OneUI 6.X Changelog
+## v1.0 for OneUI 7 Changelog
 
-- Added and enabled FHD Auto FPS video modes by default. This are different from the config 'Auto FPS' options but achieve a similar result.
+This update is designed for OneUI 7 and includes crucial improvements and new features for the camera app.
 
-- Disabled Super Steady for UHD recording due to incompatibilities (Issues reported by [@Saddam ameghchouche](https://xdaforums.com/m/saddam-ameghchouche.9644798/)).
+- Removed QHD modes due to incompatibilities with OneUI 7.
+- Added advanced zero shutter lag support.
+- Added support for additional scene detection effects like Bright Night and Document Scan.
+- Added support for the zoom rocker feature in video mode, allowing for smoother zoom adjustments during video recording. This works with UW too and may seem weird, but it's a feature that some users may find useful.
+
+*Note: This update is specifically tailored for OneUI 7 and the module will not flash on OneUI 6 or earlier versions. Ensure your device is running OneUI 7 before applying this update.*
 
 Enjoy :)

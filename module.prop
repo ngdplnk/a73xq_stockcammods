@@ -1,7 +1,7 @@
 id=a73xq-stockcammods
 name=A73 5G Stock Camera Mods
-version=v1.1 for OneUI 6.X
-versionCode=6110
+version=v1.0 for OneUI 7
+versionCode=7100
 author=@ngdplnk & @utkustnr
-description=Enhanced features for your Galaxy A73 5G's Stock Camera based on S24 Ultra configs.
+description=Enhanced features for your Galaxy A73 5G's Stock Camera based on S25 Ultra configs.
 updateJson=https://raw.githubusercontent.com/ngdplnk/a73xq_stockcammods/main/update.json

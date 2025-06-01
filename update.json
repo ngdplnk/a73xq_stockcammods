@@ -1,6 +1,6 @@
 {
-  "version": "v1.1 for OneUI 6.X",
-  "versionCode": 6110,
-  "zipUrl": "https://github.com/ngdplnk/a73xq_stockcammods/releases/download/v1.1_OneUI6.X/a73xq-stockcammods_v1.1.zip",
+  "version": "v1.0 for OneUI 7",
+  "versionCode": 7100,
+  "zipUrl": "https://github.com/ngdplnk/a73xq_stockcammods/releases/download/v1.0_OneUI7/a73xq-stockcammods_v1.0_UI7.zip",
   "changelog": "https://raw.githubusercontent.com/ngdplnk/a73xq_stockcammods/main/changelog.md"
 }

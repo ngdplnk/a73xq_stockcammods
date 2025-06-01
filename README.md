@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/ngdplnk/a73xq_stockcammods/refs/heads/main/banner.png" alt="a73xq-stockcammods banner" width="400" />
 </p>
 
-Enhanced features for your Galaxy A73 5G's Stock Camera based on S24 Ultra configs.
+Enhanced features for your Galaxy A73 5G's Stock Camera based on S25 Ultra configs.
 
 ## Features
 <details>
@@ -14,7 +14,7 @@ This module allows you to use the following features:
 
 - High bitrate recording.
 
-- Dual Rec and Fun modes.
+- Dual Rec mode.
 
 - Pro/Pro Video on Front Camera.
 
@@ -28,13 +28,11 @@ This module allows you to use the following features:
   
   All resolutions available for Main Camera:
   - 4k 30/24fps
-  - QHD 60/30fps
   - 1080p AUTO/24/30/60fps
   - 720p 30fps
   
   All resolutions available for Front Camera:
   - 4k 30/24fps
-  - QHD 30fps
   - 1080p AUTO/24/30/60fps
   - 720p 30fps
 
@@ -48,14 +46,16 @@ This module allows you to use the following features:
 
 - Night/Astro Hyperlapse.
 
+- Zoom rocker in Video mode.
+
 - Anamorphic lens and DOF adapter settings on Camera Assistant.
 </details>
 
-## [📥Latest module for OneUI 6 - 6.1.1](https://github.com/ngdplnk/a73xq_stockcammods/releases/latest)
+## [📥Latest module for OneUI 7](https://github.com/ngdplnk/a73xq_stockcammods/releases/latest)
 
 **If you are using KernelSU, toggle `Umount modules` OFF for the Camera app to get the mods working!!!**
 
 ## About and acknowledgements
 Mods created and mantained with ❤️ by [@ngdplnk](https://github.com/ngdplnk). For A73 5G only.
 
-Special thanks to [@utkustnr](https://github.com/utkustnr) :shipit:
+Special thanks to [@utkustnr](https://github.com/utkustnr) and [@eversonsouzz](https://https://t.me/eversonsouzz) :shipit:
