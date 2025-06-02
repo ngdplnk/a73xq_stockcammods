@@ -58,4 +58,4 @@ This module allows you to use the following features:
 ## About and acknowledgements
 Mods created and mantained with ❤️ by [@ngdplnk](https://github.com/ngdplnk). For A73 5G only.
 
-Special thanks to [@utkustnr](https://github.com/utkustnr) and [@eversonsouzz](https://https://t.me/eversonsouzz) :shipit:
+Special thanks to [@utkustnr](https://github.com/utkustnr) and [@eversonsouzz](https://t.me/eversonsouzz) :shipit:
